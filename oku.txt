@@ -1,0 +1,13 @@
+Hafta 5 - Tarih ve URL Oluşturma Kodu Açıklaması:
+
+Bu hafta, Python programlama dilinde tarih verilerini parçalayıp işleme ve döngülerle dinamik URL oluşturma üzerinde çalıştım. Kodda:
+
+Tarih formatındaki string ifadeler split fonksiyonu ile gün, ay ve yıl bileşenlerine ayrıldı.
+
+Artık yıl kontrolü yapan fonksiyon yazıldı; böylece Şubat ayındaki gün sayısı doğru şekilde hesaplanıyor.
+
+Üç farklı gazete ve kategori için yıllar, aylar ve günler bazında tüm tarih kombinasyonlarını içeren URL'ler dinamik olarak oluşturuldu ve yazdırıldı.
+
+Formatlama fonksiyonları kullanılarak URL ve tarih bilgileri standart biçimde düzenlendi.
+
+Bu çalışma, tarih manipülasyonu, koşullu yapılar ve çok katmanlı döngü kullanımı konusunda pratik kazandırdı.
